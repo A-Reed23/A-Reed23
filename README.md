@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Scifi, Fun
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on projects that will teach me something
-- 📫 How to reach me reed87792@gmail.com
+- 📫 How to reach me reed96479@gmail.com
 
 <!---
 A-Reed23/A-Reed23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
