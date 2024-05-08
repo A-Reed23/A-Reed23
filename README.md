@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @A-Reed23
 - 👀 I’m interested in Math, Scifi, Fun
 - 🌱 I’m currently learning Data Analysis
+- :technologist: I am open to work
 - 💞️ I’m looking to collaborate on projects that will teach me something
 - 📫 How to reach me reed96479@gmail.com
 
