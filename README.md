@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-Reed23
+- 👋 Hi, I’m A. Reed
 - 👀 I’m interested in Math, Scifi, Fun
 - 🌱 I’m currently learning Data Analysis
 - :technologist: I am open to work
